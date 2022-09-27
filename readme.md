@@ -14,4 +14,4 @@
 
 ## Archivo db.js
 
-Para poder reutilizar nuestra conexión asi como la posibilidad de hacer consultas, hemos creado un archivo llamado ``db.js` donde exportaremos la conexión, el uso del método execute, además de establecer un parámetro que hemos llamado `query` (podría llamarse milanesa) que nos permitirá elegir qué consulta hacer a la base a la hora de usar dicha función.
+Para poder reutilizar nuestra conexión asi como la posibilidad de hacer consultas, hemos creado un archivo llamado ```db.js``` donde exportaremos la conexión, el uso del método execute, además de establecer un parámetro que hemos llamado `query` (podría llamarse milanesa) que nos permitirá elegir qué consulta hacer a la base a la hora de usar dicha función.
